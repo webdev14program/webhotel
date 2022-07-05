@@ -308,7 +308,7 @@ img{
         flex: 1;
     }
     .room-image img{
-        height: 100%;
+        height: 200px;
     }
     .room-text{
         flex: 1;
